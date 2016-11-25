@@ -1,8 +1,8 @@
 ## Website Performance Optimization portfolio project
 
 Front-End Web Developer Nanodegree Course Fourth Project <a href="http://www.udacity.com" target="_blank">Udacity</a>:<br>
-Optimized <a href="https://renurevzranju.github.io/websiteoptimization/">index.html</a> to achieve PageSpeed Insight score of 90 and Optimized script files (main.js) to achieve 60 fps
-in <a href="https://renurevzranju.github.io/websiteoptimization/views/pizza.html">pizza.html</a>.
+Optimized <a href="https://renurevzranju.github.io/wp/">index.html</a> to achieve PageSpeed Insight score of 90 and Optimized script files (main.js) to achieve 60 fps
+in <a href="https://renurevzranju.github.io/wp/views/pizza.html">pizza.html</a>.
 
 ### Getting started
 
@@ -44,7 +44,7 @@ in <a href="https://renurevzranju.github.io/websiteoptimization/views/pizza.html
 
 1. Copy the public URL ngrok gives you and try running it through PageSpeed Insights and Chrome DevTools!
 
-Or you can use the project uploaded in this link: <a href="https://renurevzranju.github.io/websiteoptimization/" target="_blank">Project 4</a>
+Or you can use the project uploaded in this link: <a href="https://renurevzranju.github.io/wp/" target="_blank">Project 4</a>
 
 -------------------------------------------
 
